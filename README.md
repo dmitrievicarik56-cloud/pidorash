@@ -1,2 +1,4 @@
-# pidorash
-rapidash
+# Pidorash
+Rapidash
+
+Contributor Baba
