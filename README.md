@@ -2,7 +2,7 @@
 Rapidash
 
 Contributor Baba
-![my photo](https://telegraf.com.ua/static/storage/originals/6/19/bfd31cdab5b76d22751f7687eaae2196.jpg)
+![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBB0VT4tsjvzZRu0dNDTSHVu4_5PNIJeBLQ&s****.jpg)
 **I'm javascript developer.**
 
 
