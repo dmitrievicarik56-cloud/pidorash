@@ -2,7 +2,7 @@
 Rapidash
 
 Contributor Baba
-![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBB0VT4tsjvzZRu0dNDTSHVu4_5PNIJeBLQ&s****.jpg)
+![my photo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBB0VT4tsjvzZRu0dNDTSHVu4_5PNIJeBLQ&s****.jpg](https://pt.quizur.com/_image?href=https://img.quizur.com/f/img5f331392435367.89798097.jpg?lastEdited=1597182869&w=600&h=600&f=webp))
 **I'm javascript developer.**
 
 
