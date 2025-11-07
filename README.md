@@ -2,7 +2,7 @@
 Rapidash
 
 Contributor Baba
-![my photo][([[https://user-images.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png](https://gdb.rferl.org/92b4d921-e602-4d25-8332-d7d268fcf28c_w408_r1_s.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLe_HrYUB-2O3i5T_ebziR6t3kSpjduWt2g&s))](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLe_HrYUB-2O3i5T_ebziR6t3kSpjduWt2g&s)
+![my photo](https://www.youtube.com/playlist?list=PLx3Z6XZuChM9YpcCVZW1TQ_Jj_jjhsG2D)
 **I'm javascript developer.**
 
 
